@@ -1,0 +1,28 @@
+
+*Hướng dẫn sử dụng phần mềm mô phỏng máy bán hàng tự động:
+
+1: Thông tin về số lần thực thi chương trình được hiện lên góc trên cùng
+
+2: Nhập vào lựa chọn bằng cách bấm các phím số tương ứng với Menu lựa chọn
+
+3: Sau khi chọn xong sản phẩm và số lượng sẽ hiện lên thông tin thanh toán
+
+4: Lựa chọn hình thức thanh toán và nhập số tiền cần thiết để thanh toán
+
+5: Xác nhận đồng ý thanh toán, nếu đồng ý thanh toán thì sẽ hiện ra thông báo (thay cho biên lai ngoài đời)
+về thông tin sản phẩm đã mua cũng như giá tiền, số lượng, và số dư (tiền thối). Đồng thời sẽ có thông báo
+cho khách hàng lựa chọn đóng chương trình (kết thúc giao dịch) hoặc tiếp tục mua sắm (bắt đầu 1 giao dịch mới)
+
+*Các tính năng chính:
+
+1: Hỗ trợ lựa chọn Menu thông minh: Giao diện lựa chọn dễ nhìn-trực quan chia theo từng mặt hàng-sản phẩm
+ tính năng về lại menu cũ, tính năng hủy mua, tiếp tục mua, xác nhận trên 18 tuổi để mua các mặt hàng đặc biệt
+
+2: Hỗ trợ thanh toán bằng nhiều phương thức (tạm thời là 2 phương thức), kiểm tra có đủ số tiền thanh toán và mệnh giá tiền khi nhập vào có hợp lệ
+
+3: Tính năng kiểm tra lựa chọn Menu, khi nhập vào nhầm lựa chọn thì sẽ hiện ra thông báo để khách hàng nhập lại
+
+4: Tự động cập nhật số lượng hàng còn lại của sản phẩm sau khi giao dịch
+
+5: Hiển thị số lần thực thi chương trình mô phỏng máy bán hàng tự động
+
